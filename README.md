@@ -4,7 +4,7 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a Front-End Engineer focused on writing clean and usable code.
+  I design and code beautifully simple things, and I love what I do.
  </h3>
 
 📫 Reach me at [@andreatchori](https://www.linkedin.com/in/andré-atchori-218472113/)!
